@@ -35,3 +35,15 @@ Turkmen State University (*mathematics faculty/bachelor degree*)
 
 * **russian** native
 * **english** basic knowledge (A2)
+
+## EXAMPLE OF CODE
+
+```  
+function isDivideBy(number, a, b) {
+  if (number % a === 0 && number % b === 0) {
+    return true;
+  }
+  return false;
+}
+
+```
